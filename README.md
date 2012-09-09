@@ -1,6 +1,6 @@
 # AnchorWP
 
-Two awesome guys ([@idiot](http://twitter.com/idiot) and [@_craigchilds](http://twitter.com/_craigchilds)) created a really nice simple CMS called [Anchor CMS](https://github.com/anchorcms/anchor-cms).
+Two awesome guys ([@idiot](http://twitter.com/idiot) and [@kieronwilson](http://twitter.com/kieronwilson)) created a really nice simple CMS called [Anchor CMS](https://github.com/anchorcms/anchor-cms).
 
 It comes with a default theme (and everything here is about that theme) which I found really beautiful from a visual point of view, but also really simple from a programmer perspective.
 
