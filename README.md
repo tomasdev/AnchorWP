@@ -14,6 +14,9 @@ Simply [download a zipfile](https://github.com/tomasdev/AnchorWP/zipball/master)
 
 Feel free to contribute to this repository with either pull requests, issues or comments!
 
+##### Try it out!
+I have created a dummy content fresh install of WordPress in Dotcloud so you guys can [preview it!](http://anchorwp-tomasdev.dotcloud.com/)
+
 ## TO-DOs
 * Line 19 comments.php: There's no WP equivalent to `comment_form_notifications()` to display errors after form submission.
 * Line 13 single.php: `article_custom_field('attribution');` should be replaced with WordPress [custom post fields](http://codex.wordpress.org/Custom_Fields).
