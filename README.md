@@ -21,10 +21,8 @@ I have created a dummy content fresh install of WordPress in Dotcloud so you guy
 * Line 19 comments.php: There's no WP equivalent to `comment_form_notifications()` to display errors after form submission.
 * Line 13 single.php: `article_custom_field('attribution');` should be replaced with WordPress [custom post fields](http://codex.wordpress.org/Custom_Fields).
 * Line 6 inc/theme-menu.php: Fix the condition, it's never working. It should show the message for logged-in administrators.
-* There is no screenshot.png for the theme preview.
 * It would be nice to be able to see comments' authors avatars (currently no room for that).
 * It would be nice to take advantage of comments' authors URL (currently not showing up in the form).
-* It would be nice to have a public domain with this theme implemented to let the users check it out.
 
 ## Idea
 1. I have done a bunch of Tumblr templates, and I think it might also be converted to those formats, but I have no time to do that…
